@@ -1,6 +1,7 @@
-## ロードマップ概略<br>
-はやたすさん([@hayatasuuu](https://twitter.com/hayatasuuu))の「[【挫折ゼロ】機械学習の独学完全ロードマップ【3ヶ月で実務OK】](https://tech-diary.net/self-study-machine-learning/)」をベースに独自ロードマップを作成。全９STEP👣を経て機械学習エンジニアデビューを目指す。
+## 旅の目的<br>
+はやたすさん([@hayatasuuu](https://twitter.com/hayatasuuu))の「[【挫折ゼロ】機械学習の独学完全ロードマップ【3ヶ月で実務OK】](https://tech-diary.net/self-study-machine-learning/)」をベースに独自ロードマップを作成。全9STEP👣を経て機械学習エンジニアデビューを目指す。<br>
 
+## 旅のしおり<br>
 ### 👣STEP1 &emsp;Python基礎<br>
 
 ### 👣STEP2 &emsp;機械学習基礎<br>
