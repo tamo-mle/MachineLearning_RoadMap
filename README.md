@@ -9,8 +9,9 @@
 
 ## 行動予定<br>
 ### 👣STEP1 &emsp;Python基礎<br>
-・YouTube[「Python入門」](https://www.youtube.com/playlist?list=PL4Y-mUWLK2t2rISQza73yNiz6_8HTaQiY)：全20回<br>
-・書籍[「Python演習問題100問パック」](https://www.amazon.co.jp/Progate%E3%81%AE%E6%AC%A1%E3%81%AB%E5%AD%A6%E3%81%B6%EF%BC%81Python%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C100%E5%95%8F%E3%83%91%E3%83%83%E3%82%AF%EF%BC%81%E3%80%9C%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0%E7%B7%A8%E3%80%9C-%E3%81%AF%E3%82%84%E3%81%9F%E3%81%99-ebook/dp/B08RHGV29W/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=python%E6%BC%94%E7%BF%92&qid=1622271416&sr=8-2)　***← イマココ***<br>
+・YouTube[「Python入門」](https://www.youtube.com/playlist?list=PL4Y-mUWLK2t2rISQza73yNiz6_8HTaQiY)：全20回>　**済**
+<br>
+・書籍[「Python演習問題100問パック」](https://www.amazon.co.jp/Progate%E3%81%AE%E6%AC%A1%E3%81%AB%E5%AD%A6%E3%81%B6%EF%BC%81Python%E6%BC%94%E7%BF%92%E5%95%8F%E9%A1%8C100%E5%95%8F%E3%83%91%E3%83%83%E3%82%AF%EF%BC%81%E3%80%9C%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0%E7%B7%A8%E3%80%9C-%E3%81%AF%E3%82%84%E3%81%9F%E3%81%99-ebook/dp/B08RHGV29W/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=python%E6%BC%94%E7%BF%92&qid=1622271416&sr=8-2)　**← イマココ**<br>
 ・Udemy[「現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル」](https://www.udemy.com/course/python-beginner/)<br>
 <br>
 
